@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Sonic Frontiers & ONE OK ROCK - \"Vandalize\" Music Video",
+  "base_artist": "ONE OK ROCK",
+  "createdAt": "2026-03-26T01:25:24.964025Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Vandalize (Sonic Frontiers)",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/01_Vandalize_(Sonic_Frontiers)_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sonic Frontiers & ONE OK ROCK - \"Vandalize\" Music Video",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/02_Sonic_Frontiers_&_ONE_OK_ROCK_-__Vandalize__Music_Video_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sonic Frontiers Anime Opening",
+      "artist": "Thai McGrath, Foxchase",
+      "has_synced": false,
+      "path": "select/03_Sonic_Frontiers_Anime_Opening_Thai_McGrath,_Foxchase.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sonic Frontiers Anime Opening",
+      "artist": "Foxchase",
+      "has_synced": false,
+      "path": "select/04_Sonic_Frontiers_Anime_Opening_Foxchase.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Undefeatable (From \"Sonic Frontiers\")",
+      "artist": "Anjer feat. Rena",
+      "has_synced": true,
+      "path": "select/05_Undefeatable_(From__Sonic_Frontiers_)_Anjer_feat._Rena.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Undefeatable (From \"Sonic Frontiers\")",
+      "artist": "Anjer",
+      "has_synced": true,
+      "path": "select/06_Undefeatable_(From__Sonic_Frontiers_)_Anjer.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sonic Frontiers Anime Opening (feat. Foxchase)",
+      "artist": "Thai McGrath",
+      "has_synced": false,
+      "path": "select/07_Sonic_Frontiers_Anime_Opening_(feat._Foxchase)_Thai_McGrath.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I'm Here (From \"Sonic Frontiers\")",
+      "artist": "Arcade Player",
+      "has_synced": false,
+      "path": "select/08_I'm_Here_(From__Sonic_Frontiers_)_Arcade_Player.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Undefeatable (Sonic Frontiers OP3)",
+      "artist": "Thai McGrath",
+      "has_synced": true,
+      "path": "select/09_Undefeatable_(Sonic_Frontiers_OP3)_Thai_McGrath.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sonic Frontiers Final Anime Opening (The End)",
+      "artist": "Thai McGrath",
+      "has_synced": true,
+      "path": "select/10_Sonic_Frontiers_Final_Anime_Opening_(The_End)_Thai_McGrath.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Undefeatable (Sonic Frontiers Giganto Boss Battle Theme)",
+      "artist": "LongestSoloEver",
+      "has_synced": true,
+      "path": "select/11_Undefeatable_(Sonic_Frontiers_Giganto_Boss_Battle_Theme)_LongestSoloEver.lrc"
+    }
+  ]
+}
